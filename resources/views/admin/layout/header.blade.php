@@ -13,7 +13,7 @@
 	
 	<!-- Theme style -->
 	<link href="{{ asset('public/admin/css/AdminLTE.min.css') }}" rel="stylesheet" type="text/css" />
-	<!-- AdminLTE Skins. Choose a skin from the css/skins folder instead of downloading all of them to reduce the load. -->
+	<!-- AdminLTE Skins. -->
 	<link href="{{ asset('public/admin/css/skins/__all-skins.min.css') }}" rel="stylesheet" type="text/css" />
 
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.23/css/dataTables.bootstrap4.min.css">
